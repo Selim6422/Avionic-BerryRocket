@@ -8,9 +8,7 @@
 
         - You can find the CAD of the cards on this link :  
         - You can find an example code : https://github.com/berryrocket/Code-BerryRocket
-
-
-
-
+        - You can find the official information of the raspberry-pico : https://www.raspberrypi.com/products/raspberry-pi-pico/
+        - You can find information about the 10-DOF IMU card: https://www.waveshare.com/wiki/Pico-10DOF-IMU
 
 ![alt tag](https://github.com/axpaul/Avionic-BerryRocket/blob/main/Image/BerryRocket%20Electronic.png)
