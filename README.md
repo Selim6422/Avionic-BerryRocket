@@ -6,7 +6,7 @@
 
 <p>The architecture of this avionics is very simple. It is composed of: a Rapsberry Pico hosting the RP2040 microcontroller. A commercial Pico-10DOF-IMU board which includes an ICM20948 (3-axis gyroscope, 3-axis accelerometer, and 3-axis magnetometer) and a LPS22HB barometric pressure sensor, for sensing the atmospheric pressure of the environment. A home-made interface board, the berryRocket Electronic, including the whole power supply by regulator, buzzer and analog accelerometer using a limit switch.</p>
 
-        - You can find the CAD of the cards on this link :  
+        - You can find the CAD of the cards on this link : https://grabcad.com/library/avionic-berryrocket-type-n-1-1
         - You can find an example code : https://github.com/berryrocket/Code-BerryRocket
         - You can find the official information of the raspberry-pico : https://www.raspberrypi.com/products/raspberry-pi-pico/
         - You can find information about the 10-DOF IMU card: https://www.waveshare.com/wiki/Pico-10DOF-IMU
