@@ -1,0 +1,16 @@
+Comment,Description,Designator,Quantity,Prize,Prize Total
+C410C104M5U5TA7200,Capacity,0.1uF,1,€ 0.26,€ 0.26
+RCER71H224K1M1H03A,Capacity,0.22uF,1,€ 0.71,€ 0.71
+1N5821,Schottky diode,D1,1,€ 0.63,€ 0.63
+B3B-XH-A(LF)(SN),JST battery connector,J1,1,€ 0.19,€ 0.19
+CEM-1203,Buzzer,LS1,1,€ 0.74,€ 0.74
+61302011121,Pin Header ,"P1, P2",2,€ 1.10,€ 2.21
+61300411121,Pin Header ,P3,1,€ 0.19,€ 0.19
+TSW-103-07-L-S,Pin Header ,"P4, P5, P6",3,€ 0.34,€ 1.02
+2N3904TF,Transistor BJT NPN,Q1,1,€ 0.38,€ 0.38
+MFR-25FBF52-100R,"Axial Resistor, 100 Ohm","R1, R3",2,€ 0.10,€ 0.20
+MFR-25FBF52-10K,"Axial Resistor, 10 Kohm",R2,1,€ 0.10,€ 0.10
+D2F-01L-A1,SWITCH SNAP ACT SPDT 100MA 30V,SW1,1,€ 3.45,€ 3.45
+LM340AT-5.0/NOPB,linear regulator 5V,U1,1,€ 1.55,€ 1.55
+PCB - JLPCB,,,1,€ 2.00,€ 2.00
+,,,,Total,€ 13.63
