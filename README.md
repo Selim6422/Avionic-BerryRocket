@@ -1,4 +1,4 @@
-<h1>Avionic BerryRocket type 1</h1>
+<h1>Avionic BerryRocket type n°1</h1>
         
 <h2>BerryRocket is a project that aims to simplify the availability of elements to realize hobby rocket projects. This avionics is the 2021/2022 version.</h2>
 
